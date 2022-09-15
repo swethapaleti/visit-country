@@ -1,0 +1,31 @@
+.image {
+  width: 300px;
+  height: 200px;
+}
+
+.list-country {
+  margin-right: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.img-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.img-card {
+  background-color: #1f1f2f;
+  color: #94a3b8;
+}
+
+.remove-btn {
+  background-color: transparent;
+  border: 1px solid #94a3b8;
+  border-radius: 8px;
+  width: 80px;
+  height: 36px;
+  color: #ffffff;
+}

@@ -1,0 +1,32 @@
+.visit-card {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  color: #f1f5f9;
+}
+
+.list-visited {
+  border: 1px solid #334155;
+  background-color: #1f1f2f;
+}
+
+.btn {
+  background-color: #3b82f6;
+  border-radius: 4px;
+  width: 74px;
+  height: 32px;
+  border-width: 0px;
+  color: #ffffff;
+  align-self: center;
+  margin-right: 10px;
+}
+
+.name {
+  margin-left: 10px;
+  align-self: center;
+}
+
+.visited {
+  padding: 10px;
+  margin-right: 10px;
+}
